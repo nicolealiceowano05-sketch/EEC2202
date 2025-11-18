@@ -1,13 +1,1 @@
 *.exe
-*.O
-*.out
-
-*.tmp
-*.bin
-*.log
-
-build/
-bin/
-bak/
-
-vscode/
