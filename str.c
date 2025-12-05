@@ -12,7 +12,7 @@ int main() {
     {
         ++counter;
     }
-    printf("string lemgth: %d", counter);
+    printf("string length: %d", counter);
 
     return 0;
 
