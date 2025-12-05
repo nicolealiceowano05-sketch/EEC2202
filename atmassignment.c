@@ -1,3 +1,6 @@
+//ENE212-0066/2024 Nicole Alice Owano
+//ECE
+//Simulation of ATM machine.
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
