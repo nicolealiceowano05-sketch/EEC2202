@@ -3,7 +3,6 @@
 //Simulation of ATM machine.
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdbool.h>
 
 const int correctpin = 1234;
 
@@ -166,12 +165,7 @@ int main()
                    printf("Invalid choice. Please try again.\n");
         }
     }
-
-
-
-
     
-  
     return 0;
 }
 
